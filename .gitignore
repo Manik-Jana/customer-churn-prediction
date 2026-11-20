@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+*.py[cod]
+.streamlit/secrets.toml
+data/*.csv
+reports/figures/*.png
